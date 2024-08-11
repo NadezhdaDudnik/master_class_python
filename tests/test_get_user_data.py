@@ -10,6 +10,7 @@ LIST_USERS = "api/users?page=2"
 EMAIL_ENDS = "reqres.in"
 
 
+
 @allure.title("Проверить получение списка пользователей")
 def test_list_users():
     with allure.step("Делать запрос по адресу /api/users?page=2"):

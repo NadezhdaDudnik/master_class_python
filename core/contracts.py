@@ -1,3 +1,4 @@
+
 USER_DATA_SCHEME = {
     "type": "object",
     "properties": {
